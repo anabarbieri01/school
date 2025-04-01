@@ -1,19 +1,20 @@
 {
-  "posts": [
+  "students": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "José Maria",
+      "course": "Computação"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Fernanda Silva",
+      "course": "Computação"
+    },
+    {
+      "id": 3,
+      "name": "Maria Antunes",
+      "course": "Matemática"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+
 }
